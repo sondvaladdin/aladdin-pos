@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.s-code{
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.05);
+    display: inline;
+    padding: 3px 9px;
+    border-radius: 5px;
+}
