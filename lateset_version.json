@@ -2,7 +2,7 @@
     "version": "V2.0.4",
     "note": "Phiên bản mới nhất!",
     "time_release": "2023-11-25",
-    "active": true,
+    "active": false,
     "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V204_KDS_Tablet_hotfix.apk",
     "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V204_KDS_Desktop_hotfix.exe"
 }
