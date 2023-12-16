@@ -5,6 +5,6 @@
     "active": true,
     "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V204_KDS_Tablet_hotfix.apk",
     "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V204_KDS_Desktop_hotfix.exe",
-    "version_code": 19,
+    "version_code": 17,
     "only": []
 }
