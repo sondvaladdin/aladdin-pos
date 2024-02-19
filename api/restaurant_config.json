@@ -35,7 +35,7 @@
     {
         "id_ref": "BTQM10-HN",
         "address": "B2BT5 Lưu Hữu Phước, Hà Nội",
-        "ip": "http://192.168.5.250:1904/api",
+        "ip": "http://192.168.5.138:1904/api",
         "name": "Bò tơ quán mộc 10 HN",
         "order_online": true,
         "style": 1,
@@ -242,6 +242,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW2-SG",
+        "address": "Crescent Maill, Phường Tân Phú - Quận 7",
+        "ip": "http://192.168.1.210:1904/api",
+        "name": "Long Wang 2 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LW3HN",
         "address": "Tăng Bạt Hổ",
         "ip": "http://192.168.10.250:1904/api",
@@ -297,6 +308,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW8-HN",
+        "address": "Golden Field - 24 Nguyễn Cơ Thạch",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 8 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
         "id_ref": "LWSG1TEST",
         "address": "69 To Huu",
         "ip": "http://192.168.10.136:81/lwsg/api",
@@ -315,7 +337,7 @@
         "order_online": true,
         "style": 1,
         "is_local": true,
-        "active": false,
+        "active": true,
         "tags": "Local"
     },
     {
@@ -348,7 +370,7 @@
         "order_online": true,
         "style": 1,
         "is_local": true,
-        "active": false,
+        "active": true,
         "tags": "Local"
     },
     {
