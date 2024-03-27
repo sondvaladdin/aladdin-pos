@@ -330,6 +330,17 @@
         "tags": "Local"
     },
     {
+        "id_ref": "Local136BTAP",
+        "address": "69 Tố Hữu",
+        "ip": "http://192.168.10.136:81/btap/api",
+        "name": "Local Bánh tráng An Phú",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "Local"
+    },
+    {
         "id_ref": "Local136Bo3SG",
         "address": "69 To Huu",
         "ip": "http://192.168.10.136:81/btqm_sg3/api",
