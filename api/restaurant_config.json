@@ -1,5 +1,16 @@
 [
     {
+        "id_ref": "BTAP1SG",
+        "address": "Sài Gòn",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Bánh tráng An Phú 1 SG",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTAP-SG"
+    },
+    {
         "id_ref": "BTQM-SG5",
         "address": "O1 đường Trường Sơn, Cư Xá Bắc Hải, Phường 15, Quận 10, Tp HCM",
         "ip": "http://192.168.1.250:1904/api",
@@ -335,7 +346,7 @@
         "ip": "http://192.168.10.136:81/btap/api",
         "name": "Local Bánh tráng An Phú",
         "order_online": true,
-        "style": 2,
+        "style": 3,
         "is_local": false,
         "active": true,
         "tags": "Local"
