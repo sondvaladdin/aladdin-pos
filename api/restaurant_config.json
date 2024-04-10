@@ -3,9 +3,9 @@
         "id_ref": "BTAP1SG",
         "address": "Sài Gòn",
         "ip": "http://192.168.1.250:1904/api",
-        "name": "Bánh tráng An Phú 1 SG",
+        "name": "Bánh tráng An Vũ 1 SG",
         "order_online": true,
-        "style": 1,
+        "style": 3,
         "is_local": false,
         "active": true,
         "tags": "BTAP-SG"
@@ -242,6 +242,61 @@
         "tags": "LW-SG"
     },
     {
+        "id_ref": "LW10HN",
+        "address": "TM Time City, HN",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 10 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW11HN",
+        "address": "Royal City",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 11 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW12HN",
+        "address": "Vũ Phạm Hàm",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 12 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW1BG",
+        "address": "TM Vincom 43 Ngô Gia Tự, Trần Phú",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang - Bắc Giang",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW1HP",
+        "address": "TM Aeon, Lê Chân, HP",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang - Hải Phòng",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
         "id_ref": "LW2-539MinhKhai",
         "address": "539 Minh Khai",
         "ip": "http://192.168.130.250/api",
@@ -275,6 +330,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW3SG",
+        "address": "Phạm Ngọc Thạch",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 3 SG - Phạm Ngọc Thạch",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LW4HN",
         "address": "Hàng Cót, HN",
         "ip": "http://192.168.5.250:1904/api",
@@ -284,6 +350,17 @@
         "is_local": false,
         "active": true,
         "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW4SG",
+        "address": "Trung tâm TM - Nguyễn Thị Minh Khai",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 4 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
     },
     {
         "id_ref": "LW5-HN",
@@ -297,6 +374,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW5SG",
+        "address": "TT TM - Quận 9",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 5 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LW6-HN",
         "address": "17T4 Hoàng Đạo Thúy THNC",
         "ip": "http://192.168.1.250/api",
@@ -306,6 +394,17 @@
         "is_local": false,
         "active": true,
         "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW6SG",
+        "address": "Trung tâm TM, Đường 3/2",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 6 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
     },
     {
         "id_ref": "LW7-HY",
@@ -323,6 +422,17 @@
         "address": "Golden Field - 24 Nguyễn Cơ Thạch",
         "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 8 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW9HN",
+        "address": "BT 34 Thợ Nhuộm",
+        "ip": "http://192.168.1.250/api",
+        "name": "Long Wang 9 HN",
         "order_online": true,
         "style": 2,
         "is_local": false,
