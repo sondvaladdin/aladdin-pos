@@ -332,7 +332,7 @@
     {
         "id_ref": "LW3SG",
         "address": "Phạm Ngọc Thạch",
-        "ip": "http://192.168.1.250/api",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 3 SG - Phạm Ngọc Thạch",
         "order_online": true,
         "style": 2,
@@ -441,7 +441,7 @@
     },
     {
         "id_ref": "LWSG1TEST",
-        "address": "69 To Huu",
+        "address": "69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.136:81/lwsg/api",
         "name": "Test Local Long Wang SG1",
         "order_online": true,
@@ -452,7 +452,7 @@
     },
     {
         "id_ref": "Local136BTAP",
-        "address": "69 Tố Hữu",
+        "address": "69 Tố Hữu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.136:81/btap/api",
         "name": "Local Bánh tráng An Phú",
         "order_online": true,
@@ -474,7 +474,7 @@
     },
     {
         "id_ref": "Local136LW",
-        "address": "Dành cho IT - 69 To Huu",
+        "address": "Dành cho IT - 69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.136:81/api",
         "name": "Local Long Wang",
         "order_online": true,
@@ -485,7 +485,7 @@
     },
     {
         "id_ref": "Local139BTQM",
-        "address": "Dành cho IT - 69 To Huu",
+        "address": "Dành cho IT - 69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.136:81/btqm/api",
         "name": "Local Bò Tơ Quán Mộc",
         "order_online": true,
@@ -507,7 +507,7 @@
     },
     {
         "id_ref": "QuanLocal",
-        "address": "Local",
+        "address": "Local - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.30/api",
         "name": "Quan Local",
         "order_online": true,
