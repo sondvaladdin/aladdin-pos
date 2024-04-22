@@ -331,9 +331,9 @@
     },
     {
         "id_ref": "LW3SG",
-        "address": "Phạm Ngọc Thạch",
+        "address": "Trung tâm TM - Nguyễn Thị Minh Khai",
         "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 3 SG - Phạm Ngọc Thạch",
+        "name": "Long Wang 3 SG",
         "order_online": true,
         "style": 2,
         "is_local": false,
@@ -353,7 +353,7 @@
     },
     {
         "id_ref": "LW4SG",
-        "address": "Trung tâm TM - Nguyễn Thị Minh Khai",
+        "address": "Phạm Ngọc Thạch",
         "ip": "http://192.168.1.250/api",
         "name": "Long Wang 4 SG",
         "order_online": true,

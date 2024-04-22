@@ -1,10 +1,10 @@
 {
-    "version": "V2.0.7",
+    "version": "V2.0.8",
     "note": "Phiên bản mới nhất! Thí điểm BTQM (HN11,SG1), LW (HN1, SG2)",
-    "time_release": "2024-04-01",
+    "time_release": "2024-04-20",
     "active": true,
-    "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V207_Tablet.apk",
-    "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V207_Desktop.exe",
-    "version_code": 20,
-    "only": [16,17,1,30,32]
+    "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V208_Tablet.apk",
+    "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V208_Desktop.exe",
+    "version_code": 21,
+    "only": [16,17,1,30]
 }
