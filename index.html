@@ -5,93 +5,160 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="icon" type="image/x-icon" href="/assets/images/logo-desktop-train.ico">
   <script src="/js/bootstrap.bundle.min.js"></script>
-  <title>Aladdin Pos</title>
+  <title>Aladdin POS</title>
 </head>
 
-<body>
-  <!-- lateset 18/12/2023 -->
-  <div class="container p-5">
-    <h1>Aladdin Pos V2.0.8 (Mới nhất)</h1>
-    <p class="card-text">Phát hành: 20/04/2024</p>
-    <p class="text-danger fw-bold">CHÚ Ý: Mọi hình thức tải phần mềm không qua CNTT đều chịu hoàn toàn trách nhiệm</p>
-    <br>
+<body class="container p-5">
+  <header>
+    <h1>Aladdin POS</h1>
+    <p class="text-danger fw-bold">CHÚ Ý: Mọi hình thức tải phần mềm không qua CNTT đều chịu hoàn toàn trách nhiệm
+    </p>
+  </header>
+  <div class="mb-5">
+    <!-- Lateset version -->
     <div class="card">
+      <h5 class="card-header">V2.0.8 (Mới nhất) - 20/04/2024</h5>
       <div class="card-body">
-        <h4 class="card-title">Android (Tablet)</h4>
-        <p class="card-text">Dành cho máy tính bảng</p>
-        <a href="/assets/files/android/APOS_V208_Tablet.apk" class="btn btn-primary">Tải xuống</a>
-      </div>
-    </div>
-    <br>
-    <div class="card">
-      <div class="card-body">
-        <h4 class="card-title">Windows Desktop</h4>
-        <p class="card-text">Dành cho máy tính để bàn</p>
-        <a href="/assets/files/windows/APOS_V208_Desktop.exe" class="btn btn-primary">Tải xuống</a>
+        <h5 class="card-title">Chi tiết cập nhật:</h5>
+        <ul>
+          <li>Tắt bỏ mật khẩu (khi mở khóa chế độ Phục vụ viên)</li>
+          <li>Bổ sung thông tin Voucher/ mã ở màn hình Phiếu thanh toán</li>
+          <li>Tích hợp QR của VNPAY</li>
+          <li>Bổ sung thông tin Hồ sơ thành viên (Tiền tích lũy & ngày đạt hạng)</li>
+          <li>...</li>
+        </ul>
+        <a href="/assets/files/android/APOS_V208_Tablet.apk" class="btn btn-primary"><i class="bi bi-android2"></i> Tải
+          xuống cho Tablet</a>
+        <a href="/assets/files/windows/APOS_V208_Desktop.exe" class="btn btn-primary"><i class="bi bi-windows"></i> Tải
+          xuống cho Windows (PC)</a>
       </div>
     </div>
   </div>
-  <div class="container px-5">
-    <a class="btn btn-secondary" data-bs-toggle="collapse" href="#oldVersion">Phiên bản cũ hơn ↓</a>
+  <!-- Old version -->
+  <div class="mb-5">
+    <a class="btn btn-secondary mb-3" data-bs-toggle="collapse" href="#oldVersion">Phiên bản cũ hơn ↓</a>
     <div id="oldVersion" class="collapse">
-      <br>
-      <div class="card">
+      <!-- 20x -->
+      <!-- <div class="card mb-3">
+        <h5 class="card-header">V2.0.7 - </h5>
         <div class="card-body">
-          <h4 class="card-title">Aladdin Pos V2.0.7</h4>
-          <p class="card-text">Phát hành: 01/04/2024</p>
-          <a href="/assets/files/android/APOS_V207_Tablet.apk" class="btn btn-primary">Tải xuống cho
-            Tablet</a>
-          <a href="/assets/files/windows/APOS_V207_Desktop.exe" class="btn btn-primary m-1">Tải xuống cho
-            Windows (PC)</a>
+          <h5 class="card-title">Chi tiết cập nhật:</h5>
+          <ul>
+            <li></li>
+          </ul>
+          <a href="/assets/files/android/APOS_V208_Tablet.apk" class="btn btn-primary"><i class="bi bi-android2"></i> Tải xuống cho Tablet</a>
+          <a href="/assets/files/windows/APOS_V208_Desktop.exe" class="btn btn-primary"><i class="bi bi-windows"></i> Tải xuống cho Windows (PC)</a>
+        </div>
+      </div> -->
+      <!-- 207 -->
+      <div class="card mb-3">
+        <h5 class="card-header">V2.0.7 - 01/04/2024</h5>
+        <div class="card-body">
+          <h5 class="card-title">Chi tiết cập nhật:</h5>
+          <ul>
+            <li>Thanh toán hoá đơn tại bàn (Payment QR-Code)</li>
+            <li>Gợi ý đánh giá trải nghiệm khách hàng</li>
+            <li>...</li>
+          </ul>
+          <a href="/assets/files/android/APOS_V207_Tablet.apk" class="btn btn-primary"><i class="bi bi-android2"></i>
+            Tải xuống cho Tablet</a>
+          <a href="/assets/files/windows/APOS_V207_Desktop.exe" class="btn btn-primary"><i class="bi bi-windows"></i>
+            Tải xuống cho Windows (PC)</a>
         </div>
       </div>
-      <br>
-      <div class="card">
+      <!-- 206 -->
+      <div class="card mb-3">
+        <h5 class="card-header">V2.0.6 - 01/03/2024</h5>
         <div class="card-body">
-          <h4 class="card-title">Aladdin Pos V2.0.6</h4>
-          <p class="card-text">Phát hành: 29/02/2024</p>
-          <a href="/assets/files/android/APOS_V206_Tablet.apk" class="btn btn-primary">Tải xuống cho
-            Tablet</a>
-          <a href="/assets/files/windows/APOS_V206_Desktop.exe" class="btn btn-primary m-1">Tải xuống cho
-            Windows (PC)</a>
+          <h5 class="card-title">Chi tiết cập nhật:</h5>
+          <ul>
+            <li>Đánh giá trải nghiệm khách hàng</li>
+            <li>Xem lịch sử gọi - huỷ món</li>
+            <li>Nhập Số lượng món hủy</li>
+            <li>Kiểm soát các BILL “Khôi phục lại”</li>
+            <li>Cảnh báo chưa Nhập Thông tin Khách hàng khi thanh toán</li>
+            <li>Menu ngôn ngữ Tiếng Anh khi chọn món</li>
+            <li>...</li>
+          </ul>
+          <a href="/assets/files/android/APOS_V206_Tablet.apk" class="btn btn-primary"><i class="bi bi-android2"></i>
+            Tải xuống cho Tablet</a>
+          <a href="/assets/files/windows/APOS_V206_Desktop.exe" class="btn btn-primary"><i class="bi bi-windows"></i>
+            Tải xuống cho Windows (PC)</a>
         </div>
       </div>
-      <br>
-      <div class="card">
+      <!-- 205 -->
+      <div class="card mb-3">
+        <h5 class="card-header">V2.0.5 - 18/12/2023</h5>
         <div class="card-body">
-          <h4 class="card-title">Aladdin Pos V2.0.5</h4>
-          <p class="card-text">Phát hành: 18/12/2023</p>
-          <a href="/assets/files/android/APOS_V205_Tablet.apk" class="btn btn-primary">Tải xuống cho
-            Tablet</a>
-          <a href="/assets/files/windows/APOS_V205_Desktop.exe" class="btn btn-primary m-1">Tải xuống cho
-            Windows (PC)</a>
+          <h5 class="card-title">Chi tiết cập nhật:</h5>
+          <ul>
+            <li>Menu: Thể loại chạy theo khi xem món</li>
+            <li>Sửa các lỗi vận hành phần mềm cho Aladdin Pos trên phiên bản PC / Windows</li>
+            <li>Triển khai mã QR đăng ký khách hàng qua Zalo-OA</li>
+            <li>Nhập số lượng khách (người lớn & trẻ em)</li>
+            <li>...</li>
+          </ul>
+          <a href="/assets/files/android/APOS_V205_Tablet.apk" class="btn btn-primary"><i class="bi bi-android2"></i>
+            Tải xuống cho Tablet</a>
+          <a href="/assets/files/windows/APOS_V205_Desktop.exe" class="btn btn-primary"><i class="bi bi-windows"></i>
+            Tải xuống cho Windows (PC)</a>
         </div>
       </div>
-      <br>
-      <div class="card">
+      <!-- 204 -->
+      <div class="card mb-3">
+        <h5 class="card-header">V2.0.4 - 06/11/2023</h5>
         <div class="card-body">
-          <h4 class="card-title">Aladdin Pos V2.0.4</h4>
-          <p class="card-text">Phát hành: 06/11/2023</p>
-          <a href="/assets/files/android/APOS_V204_KDS_Tablet_hotfix.apk" class="btn btn-primary">Tải xuống cho
-            Tablet</a>
-          <a href="/assets/files/windows/APOS_V204_KDS_Desktop_hotfix.exe" class="btn btn-primary m-1">Tải xuống cho
-            Windows (PC)</a>
+          <h5 class="card-title">Chi tiết cập nhật:</h5>
+          <ul>
+            <li>Hiển thị món giảm nằm trong Combo</li>
+            <li>Tự động xoá mã giảm giá (đối với mã OneInAll) + kèm cảnh báo áp dụng mã</li>
+            <li>Thêm hiển thị nhóm món đã gọi ở màn hình menu chính</li>
+            <li>Thêm giới tính khi tạo khách hàng + cho phép quét thông tin từ CCCD</li>
+            <li>Tích hợp với hệ thống Aladdin Kitchen Display System (Tại bếp)</li>
+            <li>Thêm tìm kiếm khách hàng bằng QR/Barcode (KH qua Zalo)</li>
+            <li>...</li>
+          </ul>
+          <a href="/assets/files/android/APOS_V204_KDS_Tablet_hotfix.apk" class="btn btn-primary"><i
+              class="bi bi-android2"></i> Tải xuống cho Tablet</a>
+          <a href="/assets/files/windows/APOS_V204_KDS_Desktop_hotfix.exe" class="btn btn-primary"><i
+              class="bi bi-windows"></i> Tải xuống cho Windows (PC)</a>
         </div>
       </div>
-      <br>
-      <div class="card">
+      <!-- 203 -->
+      <div class="card mb-3">
+        <h5 class="card-header">V2.0.3 - 31/07/2023</h5>
         <div class="card-body">
-          <h4 class="card-title">Aladdin Pos V2.0.3</h4>
-          <p class="card-text">Phát hành: 24/05/2023</p>
-          <a href="/assets/files/android/AP-V203.apk" class="btn btn-primary">Tải xuống cho Tablet</a>
-          <a href="/assets/files/windows/AP_V203_Setup.exe" class="btn btn-primary m-1">Tải xuống cho Windows (PC)</a>
+          <h5 class="card-title">Chi tiết cập nhật:</h5>
+          <ul>
+            <li>Bổ sung các tính năng sau đợt đào tạo Bò Tơ Quán Mộc & Fixed bugs vận hành LongWang 4</li>
+            <li>Gọi món: Cho phép ghi chú cho từng món, chú ý xuống bếp/bar; Giữ phím số lượng để nhập số
+              lượng gọi lớn (ví dụ gọi bia lon)</li>
+            <li>Gọi món: Bổ sung tab phân loại: Món đã gọi, theo combo, món phải thử, món bán chạy... theo
+              nhóm yêu cầu!</li>
+            <li>Món đã gọi: Hiển thị lịch sử các lần gọi, hiện thời gian gọi gần nhất + ô check kiểm đồ đã
+              lên đủ</li>
+            <li>Màn Tab quản lý: Quản lý các Bàn được phục vụ bởi nhân viên: Thực hiện điều chuyển, thoát,
+              hủy, phê duyệt, xem lịch sử sử dụng trong quá trình vận hành</li>
+            <li>Thanh toán: Check xác nhận lấy hóa đơn + Số người ăn của nhóm -> chuyển xuống thu ngân</li>
+            <li>Thu ngân: Hỗ trợ tách / Gộp bill phục vụ các nghiệp vụ: Thu nhiều hình thức thanh toán, áp
+              dụng chính sách bàn gộp, tách thuế</li>
+            <li>Đồng bộ: Món + Menu bán (giá và ảnh món) + Cấu trúc Menu bán tập trung từ Ecommerce System
+              về cho các cửa hàng hiển thị trên Tab Aladdin POS</li>
+            <li>...</li>
+          </ul>
+          <a href="/assets/files/android/AP-V203.apk" class="btn btn-primary"><i class="bi bi-android2"></i>
+            Tải xuống cho Tablet</a>
+          <a href="/assets/files/windows/AP_V203_Setup.exe" class="btn btn-primary"><i class="bi bi-windows"></i> Tải
+            xuống cho Windows (PC)</a>
         </div>
       </div>
-      <br>
     </div>
   </div>
+  <footer class="text-center bg-light p-3">&#169; 2024 Aladdin.,JSC</i></footer>
 </body>
 
 </html>
