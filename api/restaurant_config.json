@@ -354,7 +354,7 @@
     {
         "id_ref": "LW4SG",
         "address": "Phạm Ngọc Thạch",
-        "ip": "http://192.168.1.250/api",
+        "ip": "http://192.168.1.220:1904/api",
         "name": "Long Wang 4 SG",
         "order_online": true,
         "style": 2,
