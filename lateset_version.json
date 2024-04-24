@@ -1,10 +1,10 @@
 {
-    "version": "V2.0.8",
-    "note": "Phiên bản mới nhất! Thí điểm các cơ sở áp dụng Thanh toán tại bàn.",
-    "time_release": "2024-04-20",
+    "version": "V2.0.8.1",
+    "note": "Phiên bản mới nhất! Áp dụng Thanh toán tại bàn.",
+    "time_release": "2024-04-24",
     "active": true,
-    "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V208_Tablet.apk",
-    "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V208_Desktop.exe",
-    "version_code": 21,
-    "only": [16,17,1,30,18,3,5,24,26,21,33,31]
+    "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V208_1_Tablet.apk",
+    "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V208_1_Desktop.exe",
+    "version_code": 22,
+    "only": [16,17,1,30,18,3,5,24,26,21,33,31,6]
 }
