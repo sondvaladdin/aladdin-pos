@@ -288,7 +288,7 @@
     {
         "id_ref": "LW1HP",
         "address": "TM Aeon, Lê Chân, HP",
-        "ip": "http://192.168.1.250/api",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang - Hải Phòng",
         "order_online": true,
         "style": 2,
