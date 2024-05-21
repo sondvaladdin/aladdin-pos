@@ -243,8 +243,8 @@
     },
     {
         "id_ref": "LW10HN",
-        "address": "TM Time City, HN",
-        "ip": "http://192.168.1.250/api",
+        "address": "TM VIN Time City",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 10 HN",
         "order_online": true,
         "style": 2,
@@ -463,7 +463,7 @@
     },
     {
         "id_ref": "Local136Bo3SG",
-        "address": "69 To Huu",
+        "address": "69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.136:81/btqm_sg3/api",
         "name": "Local BTQM SG3",
         "order_online": true,
@@ -508,7 +508,7 @@
     {
         "id_ref": "QuanLocal",
         "address": "Local - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.30/api",
+        "ip": "http://192.168.10.45/api",
         "name": "Quan Local",
         "order_online": true,
         "style": 2,
