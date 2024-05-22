@@ -6,5 +6,5 @@
     "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V208_2_Tablet.apk",
     "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V208_2_Desktop.exe",
     "version_code": 23,
-    "only": [6,7,8,9,10,11,12,13,14,27,15,4,20,23,22,28,32,16,1,17]
+    "only": [6,7,8,9,10,11,12,13,14,27,15,4,20,23,22,28,32,16,1,17,18,3,5,24,26]
 }
