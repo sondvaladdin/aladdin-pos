@@ -133,7 +133,7 @@
     },
     {
         "id_ref": "BTQM4-SG",
-        "address": "206-210 Trần Văn Giàu, phường Bình Trị Đông, quận Bình Tân, TP HCM",
+        "address": "Trần Văn Giàu, P. Bình Trị Đông, Q. Bình Tân, TP HCM",
         "ip": "http://192.168.5.100/api",
         "name": "Bò tơ quán mộc 4 SG",
         "order_online": true,
@@ -255,7 +255,7 @@
     {
         "id_ref": "LW11HN",
         "address": "Royal City",
-        "ip": "http://192.168.1.250/api",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 11 HN",
         "order_online": true,
         "style": 2,
@@ -375,8 +375,8 @@
     },
     {
         "id_ref": "LW5SG",
-        "address": "TT TM - Quận 9",
-        "ip": "http://192.168.1.250/api",
+        "address": "Trung tâm VIN TM",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 5 SG",
         "order_online": true,
         "style": 2,
@@ -397,8 +397,8 @@
     },
     {
         "id_ref": "LW6SG",
-        "address": "Trung tâm TM, Đường 3/2",
-        "ip": "http://192.168.1.250/api",
+        "address": "Trung tâm VIN TM",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 6 SG",
         "order_online": true,
         "style": 2,
