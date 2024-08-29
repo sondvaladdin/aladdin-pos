@@ -429,6 +429,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW7SG",
+        "address": "Quận 8",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 7 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LW8-HN",
         "address": "Golden Field - 24 Nguyễn Cơ Thạch",
         "ip": "http://192.168.1.250:1904/api",
@@ -519,7 +530,7 @@
     {
         "id_ref": "QuanLocal",
         "address": "Local - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.45/api",
+        "ip": "http://192.168.10.10/api",
         "name": "Quan Local",
         "order_online": true,
         "style": 2,
