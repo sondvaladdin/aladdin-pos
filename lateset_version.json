@@ -1,11 +1,16 @@
 {
     "version": "V2.4.0",
     "note": "Phiên bản mới nhất!",
-    "time_release": "2024-10-01",
-    "active": false,
+    "time_release": "2024-10-02",
+    "active": true,
     "mobile_app_link": "https://pos.aladdin-jsc.com/assets/files/android/APOS_V240_Tablet.apk",
     "desktop_app_link": "https://pos.aladdin-jsc.com/assets/files/windows/APOS_V240_Desktop.exe",
     "version_code": 28,
     "is_required": true,
-    "only": []
+    "only": [
+        6,
+        7,
+        12,
+        13
+    ]
 }
