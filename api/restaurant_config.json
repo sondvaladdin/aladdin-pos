@@ -11,6 +11,17 @@
         "tags": "BTAV-SG"
     },
     {
+        "id_ref": "BTQM-15HN",
+        "address": "Aeon Mall - Hà Đông",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Bò tơ quán mộc 15 HN",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HN"
+    },
+    {
         "id_ref": "BTQM-SG5",
         "address": "O1 đường Trường Sơn, Cư Xá Bắc Hải, Phường 15, Quận 10, Tp HCM",
         "ip": "http://192.168.1.250:1904/api",
